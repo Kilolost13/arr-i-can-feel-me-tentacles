@@ -1,5 +1,10 @@
 # 🏴‍☠️ Arr, I Can Feel Me Tentacles! 🐙
 
+[![GitHub stars](https://img.shields.io/github/stars/Kilolost13/arr-i-can-feel-me-tentacles?style=social)](https://github.com/Kilolost13/arr-i-can-feel-me-tentacles)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Pirate Approved](https://img.shields.io/badge/Pirate-Approved%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-red)](https://github.com/Kilolost13/arr-i-can-feel-me-tentacles)
+[![Octopus Tentacles](https://img.shields.io/badge/Tentacles-22%2F22%20Feeling-blue)](https://github.com/Kilolost13/arr-i-can-feel-me-tentacles)
+
 **The Great Kilo Nervous System Integration of 2026**
 
 *Where we taught a pirate AI octopus how to feel all 22 of his tentacles*
